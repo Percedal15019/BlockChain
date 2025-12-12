@@ -48,7 +48,7 @@ pieces of on‑chain data: the contract address and a token ID; usually there is
 
 <br>
 
-<table><tr><td><img src="images/nfts-guide.png" width=650></td></tr></table>
+<table><tr><td><img src="images/nfts-guide.png" width=690></td></tr></table>
 
 <br>
 
