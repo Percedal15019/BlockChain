@@ -43,7 +43,14 @@ An **NFT** is essentially a unique entry on a blockchain **(often Ethereum or si
 
 ## → How NFTs work technically
 
-Most NFTs are created (minted) using standards **like ERC‑721 or ERC‑1155 on Ethereum**, which define how a smart contract manages unique tokens. Each NFT has at least two key pieces of on‑chain data: the contract address and a token ID; usually there is also metadata (like a URI pointing to an image, name, and description) that describes the asset.​
+Most NFTs are created (minted) using standards **like ERC‑721 or ERC‑1155 on Ethereum**, which define how a smart contract manages unique tokens. Each NFT has at least two key 
+pieces of on‑chain data: the contract address and a token ID; usually there is also metadata (like a URI pointing to an image, name, and description) that describes the asset.​
+
+<br>
+
+<table><tr><td><img src="images/nfts-guide.png" width=700></td></tr></table>
+
+<br>
 
 ## → What NFTs can represent
 
