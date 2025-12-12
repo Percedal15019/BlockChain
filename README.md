@@ -67,5 +67,5 @@ In many cases, the actual media file is stored off‑chain (e.g., on IPFS or a w
 
 <br>
 
-<h1><b>Contracts</b></h1>
+<h1><b>Smart Contracts</b></h1>
 
