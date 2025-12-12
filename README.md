@@ -39,9 +39,13 @@ Its key characteristics are:
 
 **NFTs, or non‑fungible tokens**, are unique digital tokens on a blockchain that are used to represent and prove ownership or authenticity of a specific item such as a piece of art, a game asset, or a collectible. Unlike cryptocurrencies like bitcoin or ether, where every unit is interchangeable with another, each NFT has its own distinct identity and cannot be exchanged on a one‑to‑one basis with another NFT.
 
-An **NFT** is essentially a unique entry on a blockchain **(often Ethereum or similar networks)** that points to some asset and records who owns it. The blockchain stores a token ID under a contract address plus ownership history, so anyone can verify which wallet currently owns that token and how it has moved over time
+An **NFT** is essentially a unique entry on a blockchain **(often Ethereum or similar networks)** that points to some asset and records who owns it. The blockchain stores a token ID under a contract address plus ownership history, so anyone can verify which wallet currently owns that token and how it has moved over time.
 
-## → How NFTs work technically
+**Fungible assets**: One unit is effectively the same as any other unit (for example, one dollar or one bitcoin is interchangeable with another).​
+
+**Non‑fungible assets**: Each unit is different in some way, like a specific painting, a concert ticket with a seat and date, or a specific parcel of land; NFTs encode this uniqueness on‑chain
+
+## → How NFTs work technically?
 
 Most NFTs are created (minted) using standards **like ERC‑721 or ERC‑1155 on Ethereum**, which define how a smart contract manages unique tokens. Each NFT has at least two key 
 pieces of on‑chain data: the contract address and a token ID; usually there is also metadata (like a URI pointing to an image, name, and description) that describes the asset.​
@@ -52,7 +56,7 @@ pieces of on‑chain data: the contract address and a token ID; usually there is
 
 <br>
 
-## → What NFTs can represent
+## → What NFTs can represent?
 
 - Digital art and collectibles (images, animations, music files, videos, memes).
 - In‑game items and virtual land in metaverse or gaming platforms.
