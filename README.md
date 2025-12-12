@@ -71,7 +71,7 @@ In many cases, the actual media file is stored off‑chain (e.g., on IPFS or a w
 
 <br>
 
-<h1><b>Smart Contracts</b></h1>
+<h1><b>⚙️ Smart Contracts</b></h1>
 
 **Smart Contracts** are programs stored on a blockchain that automatically execute and enforce agreements when predefined conditions are met. They remove the need for a central intermediary (like a bank or platform) to run the logic or hold the state of the agreement. Every node in the blockchain network executes this code and records the result, so the outcome is **transparent, tamper‑resistant, and agreed upon by the whole network**.​ 
 
