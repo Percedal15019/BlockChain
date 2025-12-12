@@ -73,5 +73,13 @@ In many cases, the actual media file is stored off‑chain (e.g., on IPFS or a w
 
 Once conditions are met (time, input, payment, signatures, etc.), the contract runs on its own and updates balances or state without manual intervention. After deployment, the code and state history are stored on the blockchain; changing logic usually requires deploying a new contract or using an upgrade pattern, and anyone can inspect the contract’s behavior on public chain. All honest nodes running the same contract with the same input must produce the same result, which is then written to the ledger.
 
+<br>
 
+<table><tr><td><img src="images/smart-contract.png" width=690></td></tr></table>
+
+<br> 
+
+From the above, we understand that:
+
+- 
 
