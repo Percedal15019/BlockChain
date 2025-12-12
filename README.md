@@ -35,7 +35,7 @@ Web3 aims to let communities and open protocols control infrastructure and rules
 
 <br> 
 
-## But What are NFTs? 
+<h1><b> But What are NFTs? </b></h1>
 
 **NFTs, or non‑fungible tokens**, are unique digital tokens on a blockchain that are used to represent and prove ownership or authenticity of a specific item such as a piece of art, a game asset, or a collectible. Unlike cryptocurrencies like bitcoin or ether, where every unit is interchangeable with another, each NFT has its own distinct identity and cannot be exchanged on a one‑to‑one basis with another NFT.
 
