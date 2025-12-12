@@ -31,5 +31,5 @@ Web3 aims to let communities and open protocols control infrastructure and rules
 
 <br>
 
-<table><tr><td><img src="images/Web1%2C%202%2C%203.png" width=700></td></tr></table>
+<table><tr><td><img src="images/Web1%2C%202%2C%203.png" width=750></td></tr></table>
 
