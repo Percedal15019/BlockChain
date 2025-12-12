@@ -22,9 +22,14 @@ Its key characteristics are:
 
 Web3 aims to let communities and open protocols control infrastructure and rules through code, tokens, and smart contracts.
 
-From Web1 and Web2 to Web3:
+→ From Web1 and Web2 to Web3:
 - Web1 (roughly 1990s–early 2000s) focused on static websites where most users just read information; content and hosting were controlled by site owners.
 
 - Web2 (mid‑2000s onward) introduced dynamic, interactive platforms like social networks, app stores, and cloud services, but concentrated control of data and monetization in large “Big Tech” platforms.​
 
 - Web3 combines the richer interactivity of Web2 with decentralized infrastructure from blockchain and peer‑to‑peer networks, so that no single company has unilateral control over data, identity, or value flows
+
+<br>
+
+<table><tr><img src="images/Web1%2C%202%2C%203.png" width=700></td></tr></table>
+
