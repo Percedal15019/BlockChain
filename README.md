@@ -65,4 +65,5 @@ In many cases, the actual media file is stored off‑chain (e.g., on IPFS or a w
 
 - **A Game Item**: A sword or skin in a blockchain‑integrated game is an NFT; players can trade it on external marketplaces, and the game reads blockchain ownership to decide who can use the item.
 
+<h1><b>Contracts</b></h1>
 
