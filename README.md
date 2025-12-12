@@ -75,7 +75,7 @@ Once conditions are met (time, input, payment, signatures, etc.), the contract r
 
 <br>
 
-<table><tr><td><img src="images/smart-contract.png" width=550></td></tr></table>
+<table><tr><td><img src="images/smart-contract.png" width=580></td></tr></table>
 
 <br> 
 
