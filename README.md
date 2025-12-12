@@ -79,7 +79,7 @@ Once conditions are met (time, input, payment, signatures, etc.), the contract r
 
 <br> 
 
-From the above, we understand that:
+From the above, we understand the Importance of Smart Contracts that:
 
 - 
 
