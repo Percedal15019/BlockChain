@@ -12,7 +12,7 @@ Its key characteristics are:
 
 <h1><b>🌐 Web3</b></h1>
 
-***Web3*** is the vision for the next generation of the internet, shifting from today's centralized platforms (Web2) to a decentralized, user-owned web built on blockchain, focusing on data ownership, privacy, and control for users, rather than big tech companies. It uses technologies like blockchain, cryptocurrency, NFTs, smart contracts, and dApps to create a more open, transparent, and censorship-resistant internet where users have direct say in platforms and digital assets.
+**Web3** is the vision for the next generation of the internet, shifting from today's centralized platforms (Web2) to a decentralized, user-owned web built on blockchain, focusing on data ownership, privacy, and control for users, rather than big tech companies. It uses technologies like blockchain, cryptocurrency, NFTs, smart contracts, and dApps to create a more open, transparent, and censorship-resistant internet where users have direct say in platforms and digital assets.
 
 Web3 aims to let communities and open protocols control infrastructure and rules through code, tokens, and smart contracts.
 
