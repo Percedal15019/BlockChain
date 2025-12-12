@@ -52,7 +52,7 @@ Most NFTs are created (minted) using standards **like ERC‑721 or ERC‑1155 on
 
 In many cases, the actual media file is stored off‑chain (e.g., on IPFS or a web server), and the NFT stores a link to it plus ownership data on‑chain.​
 
-→ Practical examples:
+→ Practical examples are:
 
 - **A Digital Artwork**: An artist mints a single NFT that represents a specific artwork, lists it on an NFT marketplace, and sells it to a collector; the NFT’s owner field on the blockchain changes to the buyer’s wallet address.​
 
