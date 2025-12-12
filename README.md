@@ -52,10 +52,10 @@ Most NFTs are created (minted) using standards **like ERC‑721 or ERC‑1155 on
 
 In many cases, the actual media file is stored off‑chain (e.g., on IPFS or a web server), and the NFT stores a link to it plus ownership data on‑chain.​
 
-## → Practical examples
+→ Practical examples:
 
-**A digital artwork**: An artist mints a single NFT that represents a specific artwork, lists it on an NFT marketplace, and sells it to a collector; the NFT’s owner field on the blockchain changes to the buyer’s wallet address.​
+- **A Digital Artwork**: An artist mints a single NFT that represents a specific artwork, lists it on an NFT marketplace, and sells it to a collector; the NFT’s owner field on the blockchain changes to the buyer’s wallet address.​
 
-**A game item**: A sword or skin in a blockchain‑integrated game is an NFT; players can trade it on external marketplaces, and the game reads blockchain ownership to decide who can use the item
+- **A Game Item**: A sword or skin in a blockchain‑integrated game is an NFT; players can trade it on external marketplaces, and the game reads blockchain ownership to decide who can use the item.
 
 
