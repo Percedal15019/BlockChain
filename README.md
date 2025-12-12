@@ -41,18 +41,18 @@ Web3 aims to let communities and open protocols control infrastructure and rules
 
 An **NFT** is essentially a unique entry on a blockchain **(often Ethereum or similar networks)** that points to some asset and records who owns it. The blockchain stores a token ID under a contract address plus ownership history, so anyone can verify which wallet currently owns that token and how it has moved over time
 
-→ How NFTs work technically:
+## → How NFTs work technically:
 
 Most NFTs are created (minted) using standards **like ERC‑721 or ERC‑1155 on Ethereum**, which define how a smart contract manages unique tokens. Each NFT has at least two key pieces of on‑chain data: the contract address and a token ID; usually there is also metadata (like a URI pointing to an image, name, and description) that describes the asset.​
 
-→ What NFTs can represent:
+## → What NFTs can represent:
 
 - Digital art and collectibles (images, animations, music files, videos, memes).
 - In‑game items and virtual land in metaverse or gaming platforms.
 
 In many cases, the actual media file is stored off‑chain (e.g., on IPFS or a web server), and the NFT stores a link to it plus ownership data on‑chain.​
 
-→ Practical examples:
+## → Practical examples:
 
 **A digital artwork**: An artist mints a single NFT that represents a specific artwork, lists it on an NFT marketplace, and sells it to a collector; the NFT’s owner field on the blockchain changes to the buyer’s wallet address.​
 
