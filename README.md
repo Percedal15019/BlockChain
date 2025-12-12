@@ -4,6 +4,8 @@
 
 <table><tr><td><img src="images/Blockchain-Infographic.png" width=700></td></tr>
 
+<br>
+
 Its key characteristics are: 
 
 - **Decentralized**: No single entity controls it; copies exist on many computers (nodes). 
