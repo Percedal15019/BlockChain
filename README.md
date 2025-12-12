@@ -69,8 +69,9 @@ In many cases, the actual media file is stored off‑chain (e.g., on IPFS or a w
 
 <h1><b>Smart Contracts</b></h1>
 
-Smart contracts are programs stored on a blockchain that automatically execute and enforce agreements when predefined conditions are met. They remove the need for a central intermediary (like a bank or platform) to run the logic or hold the state of the agreement.
+Smart contracts are programs stored on a blockchain that automatically execute and enforce agreements when predefined conditions are met. They remove the need for a central intermediary (like a bank or platform) to run the logic or hold the state of the agreement. Every node in the blockchain network executes this code and records the result, so the outcome is transparent, tamper‑resistant, and agreed upon by the whole network.​ 
 
-Every node in the blockchain network executes this code and records the result, so the outcome is transparent, tamper‑resistant, and agreed upon by the whole network.​ Once conditions are met (time, input, payment, signatures, etc.), the contract runs on its own and updates balances or state without manual intervention.
+Once conditions are met (time, input, payment, signatures, etc.), the contract runs on its own and updates balances or state without manual intervention. After deployment, the code and state history are stored on the blockchain; changing logic usually requires deploying a new contract or using an upgrade pattern, and anyone can inspect the contract’s behavior on public chain. All honest nodes running the same contract with the same input must produce the same result, which is then written to the ledger.
 
-After deployment, the code and state history are stored on the blockchain; changing logic usually requires deploying a new contract or using an upgrade pattern, and anyone can inspect the contract’s behavior on public chain. All honest nodes running the same contract with the same input must produce the same result, which is then written to the ledger.
+
+
