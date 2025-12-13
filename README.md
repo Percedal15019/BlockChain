@@ -94,9 +94,19 @@ From the above, we understand the Importance of Smart Contracts that:
   <tr>
     <td>
       1. Two parties first agree and sign a written contract.
+      
       2. A trusted third party (like a bank, court, or intermediary institution) is then involved to enforce or process the agreement.
+      
       3. Finally, the agreement is executed, illustrated by gears showing the process happening after the third party’s involvement.
     </td> 
   </tr>
 </table>   
 
+
+
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
