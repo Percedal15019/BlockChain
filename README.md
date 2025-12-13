@@ -87,7 +87,7 @@ From the above, we understand the Differnce between Traditional Contracts and Sm
 
 <br>
 
-| Traditional Contracts | Smart Contracts |
+| **Traditional Contracts** | **Smart Contracts** |
 | ------------- | ------------- |
 | 1. Two parties first agree and sign a written contract.  | 1. Two parties agree on terms that are encoded directly into a smart contract (shown as a digital contract with a crypto/Ethereum-like symbol). |
 | 2. A trusted third party (like a bank, court, or intermediary institution) is then involved to enforce or process the agreement.  | 2. There is no separate third-party institution step; the blockchain-based smart contract itself acts as the enforcer. |
