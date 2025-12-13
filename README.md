@@ -100,7 +100,7 @@ A **token** is a programmable digital asset created and managed by smart contrac
 
 In Simplier terms, In blockchain and Web3, **“tokens”** are digital units that represent value, rights, or assets on top of a blockchain. They can stand for currency, access to a service, governance power, or even ownership of real‑world things like real estate or art.
 
-<table><tr><td><img src="images/cryptocurrency-types-banner.png" width=580></td></tr></table>
+<table><tr><td><img src="images/cryptocurrency-types-banner.png" width=700></td></tr></table>
 
 ## → Coins vs tokens:
 
