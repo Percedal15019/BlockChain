@@ -85,5 +85,20 @@ Once conditions are met (time, input, payment, signatures, etc.), the contract r
 
 From the above, we understand the Importance of Smart Contracts that:
 
-- 
+<br>
+
+<table>
+  <tr>
+    <td align="center"><b>Traditional Contracts/b></td>
+    <td align="center"><b>Smart Contracts</b></td>
+  <tr>
+    <td>
+      - Two parties first agree and sign a written contract.
+<td>
+      - A trusted third party (like a bank, court, or intermediary institution) is then involved to enforce or process the agreement.
+<td>
+      Finally, the agreement is executed, illustrated by gears showing the process happening after the third party’s involvement.</td>
+    <td></td>
+  </tr>
+</table>   
 
