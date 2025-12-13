@@ -104,6 +104,8 @@ In Simplier terms, In blockchain and Web3, **“tokens”** are digital units th
 
 <table><tr><td><img src="images/cryptocurrency-types-banner.png" width=750></td></tr></table>
 
+| <img src="images/cryptocurrency-types-banner.png" width=750> |
+
 ## → Coins vs Tokens:
 
 - **Coins** (like BTC, ETH) are native assets of their own blockchains and are mainly used to pay transaction fees and as general‑purpose money in those networks.​
