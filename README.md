@@ -112,6 +112,7 @@ In Simplier terms, In blockchain and Web3, **“tokens”** are digital units th
 
 - So, all **NFTs** and many **“altcoins”** you see on Ethereum or other smart‑contract chains are technically tokens.
 
+<br>
 
 <h1><b><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ethereum-icon-purple.svg" width=30> Ethereum</b></h1>
 
