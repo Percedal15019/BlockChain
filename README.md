@@ -101,11 +101,11 @@ In Simplier terms, In blockchain and Web3, **“tokens”** are digital units th
 
 ## → Coins vs tokens:
 
-- Coins (like BTC, ETH) are native assets of their own blockchains and are mainly used to pay transaction fees and as general‑purpose money in those networks.​
+- **Coins** (like BTC, ETH) are native assets of their own blockchains and are mainly used to pay transaction fees and as general‑purpose money in those networks.​
 
-- Tokens are created on top of these blockchains and can encode arbitrary logic: access rights, voting power, claims on revenue, or representation of another asset.​
+- **Tokens** are created on top of these blockchains and can encode arbitrary logic: access rights, voting power, claims on revenue, or representation of another asset.​
 
-- So, all NFTs and many “altcoins” you see on Ethereum or other smart‑contract chains are technically tokens
+- So, all **NFTs** and many **“altcoins”** you see on Ethereum or other smart‑contract chains are technically tokens.
 
 
 
