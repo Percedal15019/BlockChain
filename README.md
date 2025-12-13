@@ -31,7 +31,7 @@ Its key characteristics are:
 
 <br>
 
-<table><tr><td><img src="images/Web1%2C%202%2C%203.png" width=750></td></tr></table>
+<table><tr><td><img src="images/Web1%2C%202%2C%203.png" width=780></td></tr></table>
 
 <br> 
 
@@ -99,6 +99,8 @@ From the above, we understand the Differnce between Traditional Contracts and Sm
 A **token** is a programmable digital asset created and managed by smart contracts on an existing blockchain **(like Ethereum, Solana, or BNB Chain)**, rather than having its own standalone chain. Tokens follow standards (for example ERC‑20 or ERC‑721) so **wallets** and **dApps** know how to store, transfer, and interact with them.
 
 In Simplier terms, In blockchain and Web3, **“tokens”** are digital units that represent value, rights, or assets on top of a blockchain. They can stand for currency, access to a service, governance power, or even ownership of real‑world things like real estate or art.
+
+<br>
 
 <table><tr><td><img src="images/cryptocurrency-types-banner.png" width=700></td></tr></table>
 
