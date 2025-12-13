@@ -92,3 +92,20 @@ From the above, we understand the Differnce between Traditional Contracts and Sm
 | 1. Two parties first agree and sign a written contract.  | 1. Two parties agree on terms that are encoded directly into a smart contract (shown as a digital contract with a crypto/Ethereum-like symbol). |
 | 2. A trusted third party (like a bank, court, or intermediary institution) is then involved to enforce or process the agreement.  | 2. There is no separate third-party institution step; the blockchain-based smart contract itself acts as the enforcer. |
 | 3. Finally, the agreement is executed, illustrated by gears showing the process happening after the third party’s involvement.  | 3. Execution (again shown by gears) happens automatically when the contract’s programmed conditions are met. |
+
+## Tokens
+
+A **token** is a programmable digital asset created and managed by smart contracts on an existing blockchain **(like Ethereum, Solana, or BNB Chain)**, rather than having its own standalone chain. Tokens follow standards (for example ERC‑20 or ERC‑721) so **wallets** and **dApps** know how to store, transfer, and interact with them.
+
+In Simplier terms, In blockchain and Web3, **“tokens”** are digital units that represent value, rights, or assets on top of a blockchain. They can stand for currency, access to a service, governance power, or even ownership of real‑world things like real estate or art.
+
+##→ Coins vs tokens:
+
+- Coins (like BTC, ETH) are native assets of their own blockchains and are mainly used to pay transaction fees and as general‑purpose money in those networks.​
+
+- Tokens are created on top of these blockchains and can encode arbitrary logic: access rights, voting power, claims on revenue, or representation of another asset.​
+
+- So, all NFTs and many “altcoins” you see on Ethereum or other smart‑contract chains are technically tokens
+
+
+
