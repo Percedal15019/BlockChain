@@ -104,8 +104,6 @@ In Simplier terms, In blockchain and Web3, **“tokens”** are digital units th
 
 <table><tr><td><img src="images/cryptocurrency-types-banner.png" width=750></td></tr></table>
 
-| <img src="images/cryptocurrency-types-banner.png" width=750> |
-
 ## → Coins vs Tokens:
 
 - **Coins** (like BTC, ETH) are native assets of their own blockchains and are mainly used to pay transaction fees and as general‑purpose money in those networks.​
@@ -113,6 +111,13 @@ In Simplier terms, In blockchain and Web3, **“tokens”** are digital units th
 - **Tokens** are created on top of these blockchains and can encode arbitrary logic: access rights, voting power, claims on revenue, or representation of another asset.​
 
 - So, all **NFTs** and many **“altcoins”** you see on Ethereum or other smart‑contract chains are technically tokens.
+
+
+<h1><b>Ethereum</b></h1>
+
+**Ethereum** is a decentralized, open-source blockchain platform enabling developers to build and run **decentralized applications (dApps)** and **smart contracts**, extending blockchain beyond just currency like **Bitcoin, with its own cryptocurrency, Ether (ETH), powering network transactions and fees.**
+
+
 
 
 
