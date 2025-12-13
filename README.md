@@ -102,7 +102,7 @@ In Simplier terms, In blockchain and Web3, **“tokens”** are digital units th
 
 <br>
 
-<table><tr><td><img src="images/cryptocurrency-types-banner.png" width=700></td></tr></table>
+<table><tr><td><img src="images/cryptocurrency-types-banner.png" width=750></td></tr></table>
 
 ## → Coins vs tokens:
 
