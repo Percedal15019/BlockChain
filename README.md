@@ -83,7 +83,7 @@ Once conditions are met (time, input, payment, signatures, etc.), the contract r
 
 <br> 
 
-From the above, we understand the Importance of Smart Contracts that:
+From the above, we understand the Differnce between Traditional Contracts and Smart Contracts:
 
 <br>
 
