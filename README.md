@@ -87,27 +87,8 @@ From the above, we understand the Importance of Smart Contracts that:
 
 <br>
 
-<table>
-  <tr>
-    <td align="center"><b>Traditional Contracts</b></td>
-    <td align="center"><b>Smart Contracts</b></td>
-  <tr>
-    <td>
-      1. Two parties first agree and sign a written contract.
-      
-      2. A trusted third party (like a bank, court, or intermediary institution) is then involved to enforce or process the agreement.
-      
-      3. Finally, the agreement is executed, illustrated by gears showing the process happening after the third party’s involvement.
-    </td> 
-  </tr>
-</table>   
-
-
-
-
-
 | Traditional Contracts | Smart Contracts |
 | ------------- | ------------- |
-| 1. Two parties first agree and sign a written contract.  | Content Cell  |
-| 2. A trusted third party (like a bank, court, or intermediary institution) is then involved to enforce or process the agreement.  | Content Cell  |
-| 3. Finally, the agreement is executed, illustrated by gears showing the process happening after the third party’s involvement.  | Content Cell |
+| 1. Two parties first agree and sign a written contract.  | 1. Two parties agree on terms that are encoded directly into a smart contract (shown as a digital contract with a crypto/Ethereum-like symbol). |
+| 2. A trusted third party (like a bank, court, or intermediary institution) is then involved to enforce or process the agreement.  | 2. There is no separate third-party institution step; the blockchain-based smart contract itself acts as the enforcer. |
+| 3. Finally, the agreement is executed, illustrated by gears showing the process happening after the third party’s involvement.  | 3. Execution (again shown by gears) happens automatically when the contract’s programmed conditions are met. |
