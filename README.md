@@ -146,7 +146,7 @@ Its Key characteristics are:
 
 Also, we are steping into a new era of software development and web development many communities are created such as [thirdweb](https://thirdweb.com/)(they have their website as well as youtube videos to teach future developers about web3 and blockchain)
 
-If your interested more about blockchain and solidity, then i will recommend you to watch this youtube video ---> https://www.youtube.com/watch?v=gyMwXuJrbJQ
+If your interested more about blockchain and solidity, then i will recommend you to watch this youtube video ---> https://youtu.be/gyMwXuJrbJQ
 
 
 
