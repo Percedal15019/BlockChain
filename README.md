@@ -130,3 +130,14 @@ Also, **Ethereum** is the second‑largest crypto network by market capitalizati
 
 It is statically typed and features a curly-brace syntax influenced by C++, Python, and JavaScript, making it familiar to many developers.
 
+Its Key characteristics are:
+
+1. **Smart Contract Focus**: Specifically created to implement smart contracts—programs that govern the behavior of accounts within the Ethereum state and execute automatically when conditions are met.​
+
+2. **EVM Compatibility**: While built for Ethereum, it also works on other EVM-compatible blockchains (e.g., Polygon, Avalanche, Binance Smart Chain).
+​
+3. **Language Traits**: It supports inheritance, libraries, and complex user-defined types, allowing for modular and reusable code.
+​
+4. **Turing Completeness**: It can simulate any logical step of problem-solving, enabling the creation of complex decentralized applications (dApps) like voting systems, crowdfunding, and multi-signature wallets.
+
+5. **Security**: Because transactions are often irreversible and involve value (like tokens or ETH), Solidity includes features for strict error handling (e.g., require, revert) to minimize vulnerabilities.
