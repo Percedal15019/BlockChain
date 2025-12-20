@@ -141,3 +141,12 @@ Its Key characteristics are:
 4. **Turing Completeness**: It can simulate any logical step of problem-solving, enabling the creation of complex decentralized applications (dApps) like voting systems, crowdfunding, and multi-signature wallets.
 
 5. **Security**: Because transactions are often irreversible and involve value (like tokens or ETH), Solidity includes features for strict error handling (e.g., require, revert) to minimize vulnerabilities.
+
+<br> 
+
+Also, we are steping into a new era of software development and web development many communities are created such as [thirdweb](https://thirdweb.com/)(they have their website as well as youtube videos to teach future developers about web3 and blockchain)
+
+If your interested more about blockchain and solidity, then i will recommend you to watch this youtube video ---> https://www.youtube.com/watch?v=gyMwXuJrbJQ
+
+
+
