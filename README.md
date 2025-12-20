@@ -126,5 +126,7 @@ Also, **Ethereum** is the second‑largest crypto network by market capitalizati
 
 <h1><b><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" width="29" />  Solidity</b></h1>
 
-[**Solidity**](https://www.soliditylang.org/) is a high-level, object-oriented programming language designed for writing smart contracts that run on the Ethereum Virtual Machine (EVM). It is statically typed and features a curly-brace syntax influenced by C++, Python, and JavaScript, making it familiar to many developers.
+[**Solidity**](https://www.soliditylang.org/) is a high-level, object-oriented programming language designed for writing smart contracts that run on the **Ethereum Virtual Machine (EVM).**
+
+It is statically typed and features a curly-brace syntax influenced by C++, Python, and JavaScript, making it familiar to many developers.
 
