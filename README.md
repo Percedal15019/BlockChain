@@ -148,7 +148,9 @@ Also, we are steping into a new era of software development and web development 
 
 If your interested more about blockchain and how it works, then i will recommend you to check out this youtube video ---> https://youtu.be/gyMwXuJrbJQ
 
-🔴 NOTE:
+<br>
+
+## 🔴 NOTE:
 
 - I know learning a new language takes time and its necessary for you to understand that "Dont consider it as a new language/task to complete". As you will just learn it for learning purpose, create a different perspective of it. 
 
