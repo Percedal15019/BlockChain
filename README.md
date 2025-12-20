@@ -124,5 +124,5 @@ Ethereum is like a global shared computer that anyone can use, where the rules a
 
 Also, **Ethereum** is the second‑largest crypto network by market capitalization after **Bitcoin**, but its main focus is general‑purpose computation rather than just digital money. It underpins large parts of the DeFi(Decentralized Finance) and NFT ecosystems and serves as a base layer for many other networks and layer‑2 scaling solutions.
 
-<h1><b><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" width="29" /> Solidity</b></h1>
+<h1><b><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" width="29" />  Solidity</b></h1>
 
