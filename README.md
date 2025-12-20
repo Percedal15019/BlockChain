@@ -120,8 +120,8 @@ In Simplier terms, In blockchain and Web3, **“tokens”** are digital units th
 
 **Ether (ETH)** is the native cryptocurrency of Ethereum and is used to pay “gas fees”, which are charges for executing transactions or running smart contracts on the network. These fees compensate the validators who secure the network and help prevent spam or abuse by making computation economically costly.
 
-Ethereum is like a global shared computer that anyone can use, where the rules are enforced by code instead of by a central company or government. The blockchain technique records all transactions and contract executions in a transparent, tamper‑resistant ledger maintained by thousands of nodes around the world.
+Ethereum is like a global shared computer that anyone can use, where the rules are enforced by code instead of by a central company or government. The blockchain technique records all transactions and contract executions in a **transparent, tamper‑resistant ledger** maintained by thousands of nodes around the world.
 
-Also, Ethereum is the second‑largest crypto network by market capitalization after Bitcoin, but its main focus is general‑purpose computation rather than just digital money. It underpins large parts of the DeFi(Decentralized Finance) and NFT ecosystems and serves as a base layer for many other networks and layer‑2 scaling solutions.
+Also, **Ethereum** is the second‑largest crypto network by market capitalization after **Bitcoin**, but its main focus is general‑purpose computation rather than just digital money. It underpins large parts of the DeFi(Decentralized Finance) and NFT ecosystems and serves as a base layer for many other networks and layer‑2 scaling solutions.
 
 
