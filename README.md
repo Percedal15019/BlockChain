@@ -114,7 +114,7 @@ In Simplier terms, In blockchain and Web3, **“tokens”** are digital units th
 
 <br>
 
-<h1><b><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ethereum-icon-purple.svg" width=30> Ethereum</b></h1>
+<h1><b><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ethereum-icon-purple.svg" width=31> Ethereum</b></h1>
 
 [**Ethereum**](https://ethereum.org/) is a decentralized, open-source blockchain platform enabling developers to build and run **decentralized applications (dApps)** and **smart contracts**, extending blockchain beyond just currency like **Bitcoin, with its own cryptocurrency, Ether (ETH), powering network transactions and fees.**
 
