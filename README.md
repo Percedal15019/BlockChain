@@ -14,7 +14,9 @@ Its key characteristics are:
 - **Immutable**: Data, once recorded, cannot be changed or deleted without altering all subsequent blocks and getting network approval. 
 - **Transparent**: All participants can see the shared ledger, allowing for easy tracking and auditing. 
 - **Secure**: Uses cryptography (hashes) to link blocks, making tampering evident. 
-- **Consensus-driven**: Transactions are verified by the network, not a middleman, through agreement mechanisms. 
+- **Consensus-driven**: Transactions are verified by the network, not a middleman, through agreement mechanisms.
+
+<br>
 
 <h1><b>🌐 Web3</b></h1>
 
