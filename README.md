@@ -120,20 +120,17 @@ In Simplier terms, In blockchain and Web3, **“tokens”** are digital units th
 
 **Ether (ETH)** is the native cryptocurrency of Ethereum and is used to pay “gas fees”, which are charges for executing transactions or running smart contracts on the network. These fees compensate the validators who secure the network and help prevent spam or abuse by making computation economically costly.
 
+<br>
+
 <table>
   <tr>
-    <td>
-    </td>
+    <td align="center"><b>Vitalik Buterin: Founder Of Ethereum</b></td>
+    <tr>
+    <td><img src="images/founder.png" width="400"></td>
   </tr>
 </table>
 
-| **Vitalik Buterin: Founder Of Ethereum** |
-| ------------- | ------------- |
-|  <img src="images/founder.png" width="400"> |
-
-
-
-
+<br>
 
 Ethereum is like a global shared computer that anyone can use, where the rules are enforced by code instead of by a central company or government. The blockchain technique records all transactions and contract executions in a **transparent, tamper‑resistant ledger** maintained by thousands of nodes around the world.
 
