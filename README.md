@@ -47,6 +47,8 @@ An **NFT** is essentially a unique entry on a blockchain **(often Ethereum or si
 
 **Non‑fungible assets**: Each unit is different in some way, like a specific painting, a concert ticket with a seat and date, or a specific parcel of land; NFTs encode this uniqueness on‑chain
 
+<br>
+
 ## → How NFTs work technically?
 
 Most NFTs are created (minted) using standards **like ERC‑721 or ERC‑1155 on Ethereum**, which define how a smart contract manages unique tokens. Each NFT has at least two key 
