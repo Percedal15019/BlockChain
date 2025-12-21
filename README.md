@@ -156,12 +156,15 @@ Its Key characteristics are:
 
 5. **Security**: Because transactions are often irreversible and involve value (like tokens or ETH), Solidity includes features for strict error handling (e.g., require, revert) to minimize vulnerabilities.
 
+<br>
 
-
-
-
-
-
+<table>
+  <tr>
+    <td>
+      <img src="images/ETH.png">
+    </td>
+  </tr>
+</table>
 
 <br> 
 
