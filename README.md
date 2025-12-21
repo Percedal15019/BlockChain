@@ -124,7 +124,7 @@ In Simplier terms, In blockchain and Web3, **“tokens”** are digital units th
   <tr>
     <td>
         Vitalik Buterin
-  <img src="images/founder.png" width="40">
+  <img src="images/founder.png" width="400">
     </td>
   </tr>
 </table>
