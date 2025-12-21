@@ -182,7 +182,7 @@ To work in the solidity, you must know about EVM and how to access it:
 
 <br>
 
-## 🔴 **NOTE**:
+## 🔴 NOTE:
 
 - I know learning a new language takes time and its necessary for you to understand that "Dont consider it as a new language/task to complete". As you will just learn it for learning purpose, create a different perspective of it. 
 
