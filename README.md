@@ -123,13 +123,13 @@ In Simplier terms, In blockchain and Web3, **“tokens”** are digital units th
 <table>
   <tr>
     <td>
-        Vitalik Buterin
-  <img src="images/founder.png" width="400">
     </td>
   </tr>
 </table>
 
-
+| **Vitalik Buterin: Founder Of Ethereum** |
+| ------------- | ------------- |
+|  <img src="images/founder.png" width="400"> |
 
 
 
