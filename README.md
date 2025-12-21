@@ -161,7 +161,7 @@ Its Key characteristics are:
 <table>
   <tr>
     <td>
-      <img src="images/ETH.png" width="400">
+      <img src="images/ETH.png" width="800">
     </td>
   </tr>
 </table>
