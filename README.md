@@ -186,6 +186,6 @@ To work in the solidity, you must know about EVM and how to access it:
 
 - I know learning a new language takes time and its necessary for you to understand that "Dont consider it as a new language/task to complete". As you will just learn it for learning purpose, create a different perspective of it. 
 
-- For example: If you want to create an app that is safe and nobody can hack it or steal data from it, then dApp is a solution for it as in many hackathons or can i say Vibe Coded apps are vulnerable to basic data breaches like SQL Injection and many more. A dApp somewhat minimizes the issue with no errors whatsoever. Now, think like this to create that kind of security i have to learn that mechanism so that its easy for me to implement in my real-life projects as well as personal projects. This is how you should think about languages as tools to be used and learn about them. 
+- **For example**: If you want to create an app that is safe and nobody can hack it or steal data from it, then dApp is a solution for it as in many hackathons or can i say Vibe Coded apps are vulnerable to basic data breaches like SQL Injection and many more. A dApp somewhat minimizes the issue with no errors whatsoever. Now, think like this to create that kind of security i have to learn that mechanism so that its easy for me to implement in my real-life projects as well as personal projects. This is how you should think about languages as tools to be used and learn about them. 
 
 - Happy Learning and In future i will do some projects on blockchain so stay tune !!!
