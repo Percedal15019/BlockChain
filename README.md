@@ -156,6 +156,13 @@ Its Key characteristics are:
 
 5. **Security**: Because transactions are often irreversible and involve value (like tokens or ETH), Solidity includes features for strict error handling (e.g., require, revert) to minimize vulnerabilities.
 
+
+
+
+
+
+
+
 <br> 
 
 Also, we are steping into a new era of software development and web development many communities are created such as [thirdweb](https://thirdweb.com/) (they have their website as well as youtube videos to teach future developers about web3 and blockchain)
