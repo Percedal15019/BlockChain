@@ -176,7 +176,7 @@ Also, we are steping into a new era of software development and web development 
 
 If your interested more about blockchain and how it works, then i will recommend you to check out this youtube video ---> https://youtu.be/gyMwXuJrbJQ
 
-To work in the solidity, you must know about EVM and how to access it:
+To work in solidity, you must know about EVM and how to access it:
 
 1. First, 
 
